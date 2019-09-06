@@ -56,7 +56,7 @@ void draw() {
   cuadros++;
   println(cuadros);
   if (cuadros>=512&&cuadros<1024) {
-    saveFrame("gif/space001-######.png");
+    saveFrame("gif/space002-######.png");
   }
 }
 ```
